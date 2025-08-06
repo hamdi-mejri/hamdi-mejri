@@ -1,16 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=1B97FF&center=true&multiline=true&width=1000&height=150&lines=Bonjour%2C+je+m'appelle+Hamdi+!;En+recherche+d'un+poste+en+tant+que+DevOps)](https://git.io/typing-svg)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ton-pseudo.ton-pseudo)
-
-
-<div align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hamdi-mejri.hamdimejri)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=hamdimejri&color=blue" alt="Visitors"/>
 </div>
-
-
-
-![Visitors](https://komarev.com/ghpvc/?username=hamdimejri&color=blue)
-
 
 
 Développeur full stack de formation, je me spécialise aujourd’hui dans le monde du DevOps.
