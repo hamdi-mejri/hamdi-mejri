@@ -43,6 +43,12 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
 
 ##
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight" alt="Langages principaux" />
+</p>
+
 
 
   ### 📫 Me contacter
