@@ -7,12 +7,6 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
 ##
 
 
-
-
-
-
-### 🧰 Technologies & Outils
-
 ### 🧰 Technologies & Outils
 
 - **Backend :**  
@@ -37,12 +31,31 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
 
 - **Bases de données :**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" /> MySQL  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25" /> SQLite  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="25" /> GraphQL  
-
 - **Autres :**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" /> VS Code  
   <img src="https://img.icons8.com/fluency/48/microsoft-word-2019.png" width="25" /> Word  
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="25" /> Excel  
   <img src="https://img.icons8.com/color/48/microsoft-teams.png" width="25" /> Teams  
-  <img src="https://img.icons8.com/color/48/discord-logo.png" width="25" /> Discord  
+  <img src="https://img.icons8.com/color/48/discord-logo.png" width="25" /> Discord
+
+
+
+
+
+  ### 📫 Me contacter
+
+<p align="left">
+  <a href="mailto:ton.email@mail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tonprofil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/ton-tag" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://tonportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
