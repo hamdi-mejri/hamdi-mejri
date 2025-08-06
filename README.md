@@ -1,5 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=1B97FF&center=true&multiline=true&width=1000&height=150&lines=Bonjour%2C+je+m'appelle+Hamdi+!;En+recherche+d'un+poste+en+tant+que+DevOps)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00BFFF&center=true&width=700&lines=Salut+!;Je+suis+Hamdi,+aspirant+DevOps)](https://git.io/typing-svg)
+
+![Rainbow Text](https://github.com/othneildrew/Best-README-Template/raw/master/assets/rainbow-text.svg)
+
+
+![Wave Hello](https://github.com/Ileriayo/markdown-badges/raw/master/src/svg/hello.svg)
+
+![Progress](https://progress-bar.dev/70/?title=Hello%20Hamdi!)
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=28&duration=2500&pause=800&color=FF6347&center=true&width=700&lines=👋+Hello,+je+suis+Hamdi+!;🚀+En+transition+vers+DevOps)](https://git.io/typing-svg)
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=hamdimejri&color=blue" alt="Visitors"/>
 </div>
