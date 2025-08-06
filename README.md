@@ -53,41 +53,7 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
 
 
 
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hamdi-mejri&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats hamdimejri" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdi-mejri&layout=compact&theme=tokyonight&hide=c,c%2B%2B" alt="Top Languages" />
-
-</div>
-
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=hamdi-mejri&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats hamdimejri" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdi-mejri&layout=compact&theme=tokyonight&hide=c,c%2B%2B" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hamdi-mejri&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats hamdimejri" style="border-radius:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.4);" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdi-mejri&layout=compact&theme=tokyonight&hide=c,c%2B%2B" alt="Top Languages" style="border-radius:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.4);" />
-      </td>
-    </tr>
-  </table>
-
-</div>
 
   ### 📫 Me contacter
 
