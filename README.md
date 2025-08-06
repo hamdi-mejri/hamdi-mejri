@@ -51,7 +51,7 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
   <a href="https://www.linkedin.com/in/hamdi-mejri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://discordapp.com/users/h4mdii](https://discord.com/channels/@me/1391692633918672997)" target="_blank">
+  <a href="https://discord.com/channels/@me/1391692633918672997" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://tonportfolio.com" target="_blank">
