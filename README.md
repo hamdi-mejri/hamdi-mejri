@@ -43,12 +43,15 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
 
 ##
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight" alt="Langages principaux" />
-</p>
+## 📈 Statistiques GitHub
 
+<!-- lien : https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=F-OLIVIER&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats F-OLIVIER" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-OLIVIER&layout=compact&theme=tokyonight&hide=c,c%2B%2B" alt="Top Languages" />
+</div>
+
+---
 
 
   ### 📫 Me contacter
