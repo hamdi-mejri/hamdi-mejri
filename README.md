@@ -42,16 +42,14 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
   <img src="https://img.icons8.com/color/48/discord-logo.png" width="25" /> Discord
 
 ##
-
 ## 📈 Statistiques GitHub
 
-<!-- lien : https://github.com/anuraghazra/github-readme-stats -->
+<!-- Source: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=F-OLIVIER&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats F-OLIVIER" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-OLIVIER&layout=compact&theme=tokyonight&hide=c,c%2B%2B" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamdi-mejri&show_icons=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats hamdimejri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdi-mejri&layout=compact&theme=tokyonight&hide=c,c%2B%2B" alt="Top Languages" />
 </div>
 
----
 
 
   ### 📫 Me contacter
