@@ -45,7 +45,7 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
   ### 📫 Me contacter
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhpqNCQkTBFnMBShKfXCnGRKCkWzhPpcbzkZvgNtXKlCdZsqCsvGGzdkkVLckFsQkdkzDz">
+  <a href="mailto:https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhpqNCQkTBFnMBShKfXCnGRKCkWzhPpcbzkZvgNtXKlCdZsqCsvGGzdkkVLckFsQkdkzDz">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/hamdi-mejri/" target="_blank">
