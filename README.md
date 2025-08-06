@@ -61,15 +61,6 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
 
 ##
 
-### 📦 Popular Repositories
-
-| Projet | Description | Lien |
-|--------|-------------|------|
-| 🧪 Plant Disease Detector | Application Android d’analyse des feuilles avec OpenCV et Firebase. | [Voir le repo](https://github.com/ton-pseudo/plant-disease-detector) |
-| 📦 Microservices Docker/Kubernetes | Architecture microservices avec Docker Compose puis déployée avec K3s. | [Voir le repo](https://github.com/ton-pseudo/microservices-k8s-project) |
-| 🌐 Portfolio Web | Site portfolio en React avec animations et section contact. | [Voir le repo](https://github.com/ton-pseudo/portfolio-web) |
-| 🐧 Linux WordPress Server | Déploiement d’un serveur Ubuntu avec FTP, MySQL, WordPress et sécurité. | [Voir le repo](https://github.com/ton-pseudo/linux-wordpress-server) |
-
 
 
 
