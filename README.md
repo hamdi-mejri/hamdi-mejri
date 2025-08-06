@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=1B97FF&center=true&multiline=true&width=1000&height=150&lines=Bonjour%2C+je+m'appelle+Hamdi+!;En+recherche+d'un+poste+en+tant+que+DevOps)](https://git.io/typing-svg)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ton-pseudo.ton-pseudo)
 
 Développeur full stack de formation, je me spécialise aujourd’hui dans le monde du DevOps.
  Je m'intéresse à l'automatisation, à la conteneurisation et à l’orchestration d’architectures modernes.
