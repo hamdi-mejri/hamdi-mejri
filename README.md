@@ -45,13 +45,13 @@ Développeur full stack de formation, je me spécialise aujourd’hui dans le mo
   ### 📫 Me contacter
 
 <p align="left">
-  <a href="mailto:ton.email@mail.com" target="_blank">
+  <a href="mailto:hamdimejri09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/tonprofil" target="_blank">
+  <a href="https://www.linkedin.com/in/hamdi-mejri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discordapp.com/users/ton-tag" target="_blank">
+  <a href="https://discordapp.com/users/h4mdii" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://tonportfolio.com" target="_blank">
